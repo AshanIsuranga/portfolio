@@ -42,7 +42,7 @@ export default function Hero() {
           </div>
           <div className="flex-1 max-w-md">
             <img
-              src="/src/assets/images/me.jpg"
+              src="https://drive.google.com/file/d/1ynRO39hds3pPbLw-Jry43CJ66ZH_wJO2/view?usp=drive_link"
               alt="Ashan Isuranga"
               className="rounded-full shadow-2xl border-4 border-white floating"
             />
