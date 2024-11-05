@@ -45,7 +45,7 @@ export default function Contact() {
       icon: <FileText className="w-6 h-6 text-blue-500" />,
       title: 'Resume',
       subtitle: 'Download PDF',
-      href: 'https://drive.google.com/drive/folders/1d20HGbQRRuo-hQMI8694h9dfM1aITcwJ'
+      href: 'https://drive.google.com/file/d/1Vtk5M9lJLBTp81K-biHfzpXN-9kqJm4A/view?usp=sharing'
     }
   ]
 
