@@ -36,6 +36,18 @@ export default function Projects() {
       technologies: ['Spring Boot', 'Angular', 'PostgreSQL', 'CSS'],
       github: '#',
       demo: '#'
+    },
+    {
+      title: 'library management system',
+      description: 'web application library management systems utilizing basic data structures and algorithms. ',
+      technologies: ['Node.js', 'Express.js', 'MongoDB', 'CSS', 'EJS'],
+      github: 'https://github.com/AshanIsuranga/library-management-system-with-algorithms',
+    },
+    {
+      title: 'AR Sales assistant project',
+      description: 'chat application created using python language for integrate a 3D animation character.',
+      technologies: ['Python', 'MongoDB'],
+      github: 'https://github.com/AshanIsuranga/chat-application',
     }
   ]
 
